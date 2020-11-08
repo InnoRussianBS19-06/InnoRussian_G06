@@ -1,2 +1,4 @@
 # InnoRussian_G06
-Nurdaulet Kunkhozhaev; Oybek Kasimov; Alisa Ivanova; Karim ElDakroury; Evgeny Ageev
+[F20] Fundamentals of Software Engineering project. BS19-06
+
+
